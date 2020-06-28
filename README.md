@@ -1,14 +1,14 @@
 # ANSI remaps for UK PC keyboard layout in Windows 10
 
-I used the Microsoft Keyboard Layout Creator to create a custom keyboard layout for the UK English locale.
+I used the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) to create a custom keyboard layout for the UK English locale.
 
 Installing this package and switching your keyboard layout to `United Kingdom - Custom ANSI` will swap the keymap for `Shift + 2` and `Shift + '`.
 
-Everything else remains intact for a UK ISO PC layout.
+Everything else remains intact for a UK British QWERTY PC layout.
 
 ## Installation Steps
 
-1. Download the release zip
+1. Download the [latest release zip](https://github.com/39digits/windows-custom-uk-ansi-remap/releases)
 2. Unzip and run the installer on your Windows 10 PC
 3. Open Settings -> Time & Language -> Language (alternatively type `Language Settings` into Windows Search)
 4. Click on Keyboard
@@ -18,7 +18,7 @@ You could also make the change from the language preferences in the taskbar. Aft
 
 ## Why did I create this?
 
-ANSI (aka "US") PC keyboard layouts are slightly different to the UK ISO PC layout. To add to the fun, the UK MacBook Pro keyboards find themselves in a weird in-between state.
+ANSI (aka "US") PC keyboard layouts are slightly different to the UK British QWERTY PC layout. To add to the fun, the UK MacBook Pro keyboards find themselves in a weird in-between state. You can read more about the [differences between British and American keyboards](https://en.wikipedia.org/wiki/British_and_American_keyboards).
 
 Some notable differences between UK and US layouts.
 
@@ -28,7 +28,7 @@ Some notable differences between UK and US layouts.
 | Shift + 2 | "   | @   | @      |
 | Shift + 3 | £   | #   | £      |
 
-The UK ISO keyboard has a special key with # that shifts to ~. There are also a few other differences between the three different keyboard layouts.
+The UK British QWERTY keyboard has a special key with # that shifts to ~. There are also a few other differences between the three different keyboard layouts.
 
 I used ANSI layout when growing up in South Africa and have used a UK MacBook Pro for most of my time in the UK.
 
@@ -40,7 +40,7 @@ And so I created this to always use ANSI keymaps for @ and ".
 
 ## Bonus tips
 
-If you too regularly switch between Windows 10 and MacOS, I strongly encourage you to install Windows 10 Powertoys.
+If you too regularly switch between Windows 10 and MacOS, I strongly encourage you to install [Windows 10 Powertoys](https://github.com/microsoft/PowerToys).
 
 This will allow you to create a few custom key remaps.
 
